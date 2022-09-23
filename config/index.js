@@ -24,7 +24,7 @@ export const USER_CONFIG = {
     
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
@@ -34,10 +34,10 @@ export const USER_CONFIG = {
     // 毒鸡汤
     poisonChickenSoup: false,
     // 古诗古文
-    poetry: false,
+    poetry: true,
     
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
     
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -62,9 +62,9 @@ export const USER_CONFIG = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "3up_FAElWzHqNm0i81DoRG36yv_Rz33oRoY-mWLfz2E",
       // 所在省份
-      province: "甘肃",
+      province: "吉林",
       // 所在城市
-      city: "礼县",
+      city: "长春",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '09-28',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
