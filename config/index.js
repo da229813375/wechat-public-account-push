@@ -7,7 +7,7 @@ export const USER_CONFIG = {
   APP_ID: "wx114a874ed4ab949c",
   
   // 公众号APP_SECRET
-  APP_SECRET: "ec517ae325c559a0f647483e3b5c411a",
+  APP_SECRET: "fef23bc9a2e13c28b6e43b50d49c5aa0",
   
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
